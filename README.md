@@ -1,4 +1,4 @@
-These dotfiles are made based on the YouTube tutorial by sane1090x listed below.
+These dotfiles are made based on the YouTube tutorial by saneAspect (formally sane1090x) listed below.
 
 Credits:
 
