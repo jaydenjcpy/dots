@@ -1,6 +1,6 @@
 These dotfiles are made based on the YouTube tutorial by saneAspect (formally sane1090x) listed below.
 
-Credits (Credit goes to original authors):
+Credits (Credits goes to original authors):
 
 The YouTube tutorial I followed: https://youtu.be/ftHfRmtqDTU?si=LbvTXC7qQ7VfEQl5 
 
