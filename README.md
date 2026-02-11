@@ -23,7 +23,7 @@ kitty
 zsh
 swaync
 hyprshot
-waybar
+waybar *There is a wi-fi module that I turned off in the config that you can enable*
 
 
 
